@@ -1,0 +1,46 @@
+.card {
+    background-color: #e9e789;
+    padding: 50px;
+    border-radius: 8px;
+    width: 60%;
+    text-align: auto;
+    margin: auto;
+    margin-bottom: 0.6em;
+  }
+  
+  .card-title {
+    color: blue;
+    font-size: 18px;
+  }
+  
+  .card-description {
+    color: #333;
+  }
+  
+
+  /* Side bar */
+
+  .sidebar {
+    width: 200px;
+    background-color: #f0f0f0;
+    padding: 20px;
+  }
+  
+  .sidebar ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .sidebar li {
+    margin-bottom: 10px;
+  }
+  
+  .sidebar a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .sidebar a:hover {
+    color: blue;
+  }
+  
